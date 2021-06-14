@@ -2,8 +2,7 @@
 
 Pronounced "Ah-dale", or you can call me "Dale" for short 😎
 
-: About Me:
-- 
+Im a Junior Data Scientist with a talent for building relationships and understanding client needs/pain points. Passionate about transforming data into useful insights, using data to spot trends, streamline processes and positively impacting the company’s bottom line :moneybag:
 
 :chart_with_upwards_trend:My Experience:
 
@@ -11,12 +10,16 @@ Pronounced "Ah-dale", or you can call me "Dale" for short 😎
 - Sales, operations, and analytics at a start-up Mixed Martia Arts gym 🥊 🥋
 - Graduated from General Assembly's 👨‍💻 Data Science Immersive Course 💻
 
-🌱 Skills:
-
+🌱 Skills learnt from GA:
+- Statistics
 
 
 - 👀 I’m interested in ...
-- I’m currently learning ...
+I’m currently learning:
+- 
+
+:man_cartwheeling: Hobbies:
+- My hobbies i
  
 📫 How to reach me:
 - email: adelalsagoff@gmail.com
