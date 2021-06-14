@@ -2,17 +2,25 @@
 
 Pronounced "Ah-dale", or you can call me "Dale" for short 😎
 
+: About Me:
+- 
+
 :chart_with_upwards_trend:My Experience:
-Ive had experience in analytics as an intern at Lufthansa Cargo ✈️
-Took that experience and spearheaded the analytics at a start-up Mixed Martia Arts gym 🥊 🥋
-And recently completed a bootcamp with General Assembly 👨‍💻 studying Data Science 💻
+
+- Analytics as an intern at Lufthansa Cargo ✈️
+- Sales, operations, and analytics at a start-up Mixed Martia Arts gym 🥊 🥋
+- Graduated from General Assembly's 👨‍💻 Data Science Immersive Course 💻
+
+🌱 Skills:
 
 
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- I’m currently learning ...
+ 
+📫 How to reach me:
+- email: adelalsagoff@gmail.com
+- [Linkedin](https://www.linkedin.com/in/adelalsagoff/)
 
 <!---
 adelalsagoff/adelalsagoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
