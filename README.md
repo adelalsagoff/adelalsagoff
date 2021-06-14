@@ -12,11 +12,12 @@ Im a Junior Data Scientist with a talent for building relationships and understa
 
 🌱 Skills learnt from GA:
 - Statistics
-
-
-- 👀 I’m interested in ...
-I’m currently learning:
-- 
+- Data cleaning and Feature Engineering
+- Exploratory Data Analysis and Data Visualisations
+- Webscraping (JSON API, Reddit API)
+- Regression Models (Linear Regression, Multivariate Regression)
+- Classification Models (Logstic Regression, Naive Bayes, Decision Tree, Random Forest, Support Vector, Ensemble Methods)
+- Natural Language Processing (Tokenizing, Sentiment Analysis, Word Vectorizing)
 
 :man_cartwheeling: Hobbies:
 - My hobbies i
