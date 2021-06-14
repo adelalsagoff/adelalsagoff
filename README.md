@@ -7,7 +7,7 @@ Im a Junior Data Scientist with a talent for building relationships and understa
 
 :chart_with_upwards_trend:My Experience:
 - Analytics as an intern at Lufthansa Cargo ✈️
-- Sales, operations, and analytics at a start-up Mixed Martia Arts gym 🥊 🥋
+- Sales, operations, and analytics at a start-up Mixed Martial Arts gym 🥊 🥋
 - Graduated from General Assembly's 👨‍💻 Data Science Immersive Course 💻
 
 
@@ -24,7 +24,7 @@ Im a Junior Data Scientist with a talent for building relationships and understa
 :man_cartwheeling: Hobbies:
 - I enjoy reading non-fictional books especially on topics such as ethics and 21st century philosophy 📚 🧠
 - Ive been training Muay Thai for 3 years and every now and then I like to hit the bag :boxing_glove: 
-- When im with my friends, we debate on what makes a good(or bad) blockbuster film 🎥 :tv:
+- When im with my friends, we debate on what makes a good (or bad) blockbuster film 🎥 :tv:
  
  
 📫 How to reach me:
