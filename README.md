@@ -1,4 +1,4 @@
-👋 Hi, I’m Adel! 
+### 👋 Hi, I’m Adel! 
 
 Pronounced "Ah-dale", or you can call me "Dale" for short 😎
 
@@ -20,7 +20,9 @@ Im a Junior Data Scientist with a talent for building relationships and understa
 - Natural Language Processing (Tokenizing, Sentiment Analysis, Word Vectorizing)
 
 :man_cartwheeling: Hobbies:
-- My hobbies i
+- I enjoy reading non-fictional books especially on topics such as ethics and 21st century philopshy 📚 🧠
+- Ive been training Muay Thai for 3 years and every now and then I like to hit the bag :boxing_glove: 
+- When im with my friends, we debate on what makes a good(or bad) blockbuster film 🎥 :tv:
  
 📫 How to reach me:
 - email: adelalsagoff@gmail.com
