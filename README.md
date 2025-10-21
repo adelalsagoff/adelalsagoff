@@ -2,29 +2,40 @@
 
 Pronounced "Ah-dale", or "Dale" for short 😎
 
-Im a Junior Data Scientist with a talent for building relationships and understanding client needs/pain points. Passionate about transforming data into useful insights, using data to spot trends, streamline processes and positively impacting the company’s bottom line :moneybag:
+Basically a professional Pattern Spotter and a Pipeline Builder. 🛠️ If there's a trend you need to understand, I'm your guy! I turn messy, raw information and turn it into wisdom. What really drives me is connecting with people, understanding their deepest frustrations, and then leveraging data science to find solutions that don't just help a bottom line :moneybag:, but enhance well-being and solve real-world problems. It's all about making sense of the noise so we can all lead better, more informed lives.
 
 
 :chart_with_upwards_trend: My Experience:
 - Analytics as an intern at Lufthansa Cargo ✈️
 - Sales, operations, and analytics at a start-up Mixed Martial Arts gym 🥊 🥋
-- Graduated from General Assembly's 👨‍💻 Data Science Immersive Course 💻
+- Consulted on and delivered for Public Sector projects
+- Migrating clients' on prem ETL data architecture to a cloud ELT architecture
 
 
-🌱  Skills learnt from GA:
+🌱 Data Science Skills:
 - Statistics
 - Data cleaning and Feature Engineering
 - Exploratory Data Analysis and Data Visualisations
-- Webscraping (JSON API, Reddit API)
+- Webscraping
 - Regression Models (Linear Regression, Multivariate Regression)
 - Classification Models (Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Support Vector, Ensemble Methods)
 - Natural Language Processing (Tokenizing, Sentiment Analysis, Word Vectorizing)
 
+🌱 Data Engineering Skills:
+- Cloud ETL/ELT Architecture & Migration
+- AWS Cloud Data Services
+- Data Lake Frameworks & Governance:
+- Data Modeling & Optimization
+- Infrastructure as Code (IaC)
+- Data Pipeline Development
+- Data Quality & Cleansing
+
 
 :man_cartwheeling: Hobbies:
-- I enjoy reading non-fictional books especially on topics such as ethics and 21st century philosophy 📚 🧠
-- Ive been training Muay Thai for 3 years and every now and then I like to hit the bag :boxing_glove: 
-- When im with my friends, we debate on what makes a good (or bad) blockbuster film 🎥 :tv:
+- I enjoy reading non-fictional books 📚 🧠
+- I'm an avid lover of martial arts :boxing_glove: 
+- Debating with my friend on what makes a good (or bad) film 🎥 :tv:
+- I love music so much I started DJ-ing 🎧
  
  
 📫  How to reach me:
