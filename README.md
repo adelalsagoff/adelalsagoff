@@ -1,15 +1,15 @@
 ### 👋 Hi, I’m Adel! 
 
-Pronounced "Ah-dale", or "Dale" for short 😎
+Pronounced "Ah-dale", or "Dale" for short.
 
 Basically a professional Pattern Spotter and a Pipeline Builder. 🛠️ If there's a trend you need to understand, I'm your guy! I turn messy, raw information and turn it into wisdom. What really drives me is connecting with people, understanding their deepest frustrations, and then leveraging data science to find solutions that don't just help a bottom line :moneybag:, but enhance well-being and solve real-world problems. It's all about making sense of the noise so we can all lead better, more informed lives.
 
 
 :chart_with_upwards_trend: My Experience:
-- Analytics as an intern at Lufthansa Cargo ✈️
-- Sales, operations, and analytics at a start-up Mixed Martial Arts gym 🥊 🥋
+- Analytics at Lufthansa Cargo ✈️
+- Sales, operations, and analytics at a Martial Arts gym 🥊 🥋
 - Consulted on and delivered for Public Sector projects
-- Migrating clients' on prem ETL data architecture to a cloud ELT architecture
+- Migrating clients' on-premise ETL data architecture to a cloud ELT architecture
 
 
 🌱 Data Science Skills:
@@ -24,11 +24,12 @@ Basically a professional Pattern Spotter and a Pipeline Builder. 🛠️ If ther
 🌱 Data Engineering Skills:
 - Cloud ETL/ELT Architecture & Migration
 - AWS Cloud Data Services
-- Data Lake Frameworks & Governance:
-- Data Modeling & Optimization
+- Data Lake Frameworks (Iceberg, Delta Lake) 
+- Data Governance
+- Data Modeling, Snowflake & Star Schema
 - Infrastructure as Code (IaC)
-- Data Pipeline Development
-- Data Quality & Cleansing
+- Data Pipeline Orchestration
+- Data Batch Processing
 
 
 :man_cartwheeling: Hobbies:
